@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\bin\Debug\net6.0\LoopTask1.exe
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\bin\Debug\net6.0\LoopTask1.deps.json
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\bin\Debug\net6.0\LoopTask1.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\bin\Debug\net6.0\LoopTask1.dll
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\bin\Debug\net6.0\LoopTask1.pdb
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.dll
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\refint\LoopTask1.dll
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.pdb
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\LoopTask1.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\LoopTask1\LoopTask1\obj\Debug\net6.0\ref\LoopTask1.dll
